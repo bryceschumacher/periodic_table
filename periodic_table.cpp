@@ -89,6 +89,7 @@ void printInfo(string my_data[84][4], string option_element) {
     getline(cin, nonsense);
 }
 int main() {
+    // 
     int option = 0;
     string option_string = "";
     string atomic_number = "";
